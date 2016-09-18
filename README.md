@@ -1,4 +1,20 @@
 # Framework-Guide-For-Myself
+ 基本概念
+ =
+`iOS SDK`: iOS Software Development Kit(SDK、软件开发包)包含了出现iOS设备主屏幕上的native apps所需要的开发、安装、运行和测试的工具和接口。通过使用iOS系统框架和Objective-C语言直接运行在iOS上来构建native app。
+
+`iOS Frameworks`: Apple将它的系统接口分发在不同的框架（frameworks）中，细分功能接口。想要使用哪一个框架，才把它添加到Xcode工程中。
+
+建议：
+
+作为一个菜鸟，建议我自己
+
+* 端正你自己在iOS平台的态度
+* 学习iOS软件技术，什么时候、为什么你会想要使用这个技术
+* 把握学习平台的发展机会
+* 学习如何把iOS移植到其他平台
+* 找到你感兴趣的关键技术文档 
+
 应用程序开发：  
 
 Native app 本地应用，原生代码开发，开发与维护成本高，用户体验优秀，跨平台困难。 

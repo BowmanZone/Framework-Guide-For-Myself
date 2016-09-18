@@ -1,5 +1,6 @@
 基本概念
  =
+ 
 `iOS SDK`: iOS Software Development Kit(SDK、软件开发包)包含了出现iOS设备主屏幕上的native apps所需要的开发、安装、运行和测试的工具和接口。通过使用iOS系统框架和Objective-C语言直接运行在iOS上来构建native app。
 
 `iOS Frameworks`: Apple将它的系统接口分发在不同的框架（frameworks）中，细分功能接口。想要使用哪一个框架，才把它添加到Xcode工程中。
